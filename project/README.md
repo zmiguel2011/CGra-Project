@@ -1,5 +1,7 @@
 # CG 2022/2023
 
+`A simple WebGL game built on top of the WebCGF library`
+
 ## Group T07G03
 | Name             | Number    | E-Mail             |
 | ---------------- | --------- | ------------------ |
