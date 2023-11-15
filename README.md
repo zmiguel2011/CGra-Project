@@ -2,6 +2,8 @@
 
 `A simple WebGL game built on top of the WebCGF library`
 
+### Project Grade: 18.4/20
+
 View more of the WebCGF library [here](https://paginas.fe.up.pt/~ruirodrig/pub/sw/webcgf/docs/).
 
 Click [here](project/README.md) to view the main project!
@@ -22,4 +24,3 @@ Click [here](project/README.md) to view the main project!
   - [Project](project/README.md)
 
 ----
-> Project Grade: 18.4/20
