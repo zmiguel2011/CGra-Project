@@ -6,7 +6,7 @@
 
 View more of the WebCGF library [here](https://paginas.fe.up.pt/~ruirodrig/pub/sw/webcgf/docs/).
 
-Click [here](project/README.md) to view the main project!
+Click [here](project/index.html) to view the project LIVE!
 
 ## Group T07G03
 | Name             | Number    | E-Mail             |
