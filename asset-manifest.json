@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/CGra-Project/static/css/main.a548617a.css",
+    "main.js": "/CGra-Project/static/js/main.afc9e42d.js",
+    "static/js/787.210309ab.chunk.js": "/CGra-Project/static/js/787.210309ab.chunk.js",
+    "static/media/project-t07-g03-4.png": "/CGra-Project/static/media/project-t07-g03-4.8ce4a188799a146b717e.png",
+    "static/media/project-t07-g03-2.png": "/CGra-Project/static/media/project-t07-g03-2.328f77060586876c39db.png",
+    "static/media/project-t07-g03-5.png": "/CGra-Project/static/media/project-t07-g03-5.9f6e709153d489c14c5a.png",
+    "static/media/project-t07-g03-1.png": "/CGra-Project/static/media/project-t07-g03-1.701a41858b2d80e26f37.png",
+    "static/media/project-t07-g03-3.png": "/CGra-Project/static/media/project-t07-g03-3.b1869c589680190759cf.png",
+    "static/media/project-t07-g03-6.gif": "/CGra-Project/static/media/project-t07-g03-6.aa059b3ac98683e4b0a7.gif",
+    "static/media/banner-bg-white.png": "/CGra-Project/static/media/banner-bg-white.7a65d67419c40058d58d.png",
+    "static/media/banner-bg.png": "/CGra-Project/static/media/banner-bg.be74975758f421fdf280.png",
+    "static/media/footer-bg.png": "/CGra-Project/static/media/footer-bg.ab4d56c0eb1dd56e0848.png",
+    "static/media/project-birdventure.png": "/CGra-Project/static/media/project-birdventure.0756b0309d49eb5cd21a.png",
+    "static/media/before-footer-bg-white.png": "/CGra-Project/static/media/before-footer-bg-white.b15bd89d0187b0779f0c.png",
+    "static/media/project-ventreplein.png": "/CGra-Project/static/media/project-ventreplein.b5b612081bd03ea6defd.png",
+    "static/media/project-typeracer.png": "/CGra-Project/static/media/project-typeracer.376dccad27f54a435d5e.png",
+    "static/media/project-letstalk.png": "/CGra-Project/static/media/project-letstalk.5a85081cac47e9f1a2ed.png",
+    "static/media/project-claustro.png": "/CGra-Project/static/media/project-claustro.cf5d840c5dd93d1e32bb.png",
+    "static/media/project-evup.png": "/CGra-Project/static/media/project-evup.af3c97973abd12b1d777.png",
+    "static/media/project-linklayer.png": "/CGra-Project/static/media/project-linklayer.597435c90fd0e77805ac.png",
+    "static/media/project-transpiler.png": "/CGra-Project/static/media/project-transpiler.cdb5a1b56e2642d224be.png",
+    "static/media/before-footer-bg.png": "/CGra-Project/static/media/before-footer-bg.dd43846ae83a2248cb9d.png",
+    "static/media/CentraNo2-Bold.ttf": "/CGra-Project/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/CGra-Project/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/CGra-Project/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/project-spaceshooterultimate.png": "/CGra-Project/static/media/project-spaceshooterultimate.50fb26e96605fbe318dd.png",
+    "static/media/logo.png": "/CGra-Project/static/media/logo.ef2de886253693d44684.png",
+    "static/media/github-icon.svg": "/CGra-Project/static/media/github-icon.fd617df669484a3727a0c20ef4be4af7.svg",
+    "index.html": "/CGra-Project/index.html",
+    "static/media/code-icon.svg": "/CGra-Project/static/media/code-icon.2e88e78e4aca08959c0999e44c1dfb33.svg",
+    "static/media/linkedin-icon.svg": "/CGra-Project/static/media/linkedin-icon.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/mail-icon.svg": "/CGra-Project/static/media/mail-icon.129a9bb6f39d8d3278c84d7f8bb6a114.svg",
+    "main.a548617a.css.map": "/CGra-Project/static/css/main.a548617a.css.map",
+    "main.afc9e42d.js.map": "/CGra-Project/static/js/main.afc9e42d.js.map",
+    "787.210309ab.chunk.js.map": "/CGra-Project/static/js/787.210309ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a548617a.css",
+    "static/js/main.afc9e42d.js"
+  ]
+}
