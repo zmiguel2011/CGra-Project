@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CGra-Project/static/css/main.9686c9cc.css",
-    "main.js": "/CGra-Project/static/js/main.cc19c077.js",
+    "main.js": "/CGra-Project/static/js/main.103213d5.js",
     "static/js/787.210309ab.chunk.js": "/CGra-Project/static/js/787.210309ab.chunk.js",
     "static/media/project-t07-g03-4.png": "/CGra-Project/static/media/project-t07-g03-4.8ce4a188799a146b717e.png",
     "static/media/project-t07-g03-2.png": "/CGra-Project/static/media/project-t07-g03-2.328f77060586876c39db.png",
@@ -33,11 +33,11 @@
     "static/media/linkedin-icon.svg": "/CGra-Project/static/media/linkedin-icon.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/mail-icon.svg": "/CGra-Project/static/media/mail-icon.129a9bb6f39d8d3278c84d7f8bb6a114.svg",
     "main.9686c9cc.css.map": "/CGra-Project/static/css/main.9686c9cc.css.map",
-    "main.cc19c077.js.map": "/CGra-Project/static/js/main.cc19c077.js.map",
+    "main.103213d5.js.map": "/CGra-Project/static/js/main.103213d5.js.map",
     "787.210309ab.chunk.js.map": "/CGra-Project/static/js/787.210309ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9686c9cc.css",
-    "static/js/main.cc19c077.js"
+    "static/js/main.103213d5.js"
   ]
 }
